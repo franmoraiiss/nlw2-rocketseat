@@ -44,7 +44,7 @@
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/franmoraiiss/nlw2-rocketseat.git && cd bikcraft
+$ git clone https://github.com/franmoraiiss/nlw2-rocketseat.git && cd nlw2-rocketseat
 ```
 
 ## 🤔 How to contribute
